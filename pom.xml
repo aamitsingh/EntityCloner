@@ -52,7 +52,7 @@
     <properties>
         <jmockit.version>1.18</jmockit.version>
         <spring.version>[5.0.7,)</spring.version>
-        <jackson.version>2.9.7</jackson.version>
+        <jackson.version>2.9.10.4</jackson.version>
     </properties>
     <dependencies>
         <dependency>
